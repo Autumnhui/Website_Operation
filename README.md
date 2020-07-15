@@ -114,25 +114,14 @@
 
 ### 4.2 SiteOrigin
 
+1. [文章1](https://wp.autumnhui.cn/index.php/2020/07/12/use-https/) 在文章中使用siteorigin小工具添加阅读进度条。
+![siteorigin_进度条](./pic/siteorigin_进度条.png)
 
+2. [文章2](https://wp.autumnhui.cn/index.php/2020/07/10/get-githubedupack/) 在文章结尾使用Siteorigin添加跳转到Github的按钮。
+![siteorigin_github](./pic/siteorigin_github.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. [文章3](https://wp.autumnhui.cn/index.php/2020/07/13/build-wordpress/) 文章中使用siteorigin小工具添加图像。
+![siteorigin_pic](./pic/siteorigin_pic.png)
 
 # 5. 云端网站管理
 
@@ -204,10 +193,10 @@
 
 | SEO方法 | 结果 |
 |:--:|:--:|
-|||
-|||
-|||
-|||
+| 设置图像alt | 所有图像都有与主题相关的描述 |
+| 添加元描述 | 补充关于文章的缩略描述 |
+| 增加SEO标题 | 设置与文章主题相关的SEO标题 |
+| 添加焦点关键词 | 增加更多关键词，让搜索引擎能够爬取到 |
 
 ### 6.2.2 优化前后对比及分析原因
 
